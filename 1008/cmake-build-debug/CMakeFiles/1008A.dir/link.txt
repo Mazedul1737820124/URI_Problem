@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/1008A.dir/main.c.o  -o 1008A 
